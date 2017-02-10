@@ -1,0 +1,223 @@
+
+a {
+    display: block;
+    width: auto;
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul > li {
+    margin-left: 5px;
+    float: left;
+}
+
+#daohang {
+    width: 100%;
+    height: 20px;
+    background-color: #e2cfdf;
+}
+#daohang li{
+    font-size: 10pt;
+}
+.qian{
+    position: absolute;
+    top:10px;
+    left: 10px;
+}
+.hou{
+    position: absolute;
+    top:10px;
+    left: 640px;
+}
+#logo {
+    width: auto;
+    height: auto;
+    margin-left: 100px;
+}
+
+#logo img {
+    width: 200px;
+    height: 100px;
+}
+
+
+/*-----------------------------------------------------------*/
+#bu{
+    width: 400px;
+    height: 30px;
+    position: absolute;
+    top:50px;
+    left:770px;
+    margin-left: 100px
+}
+#tijiao{
+background-color: #f2c9f3;
+    width: 85%;
+   height:  110px;
+    margin-left: 100px;
+    border: 2px solid lightgrey;
+}
+#tijiao p{
+    margin-left:100px
+}
+#tijiao span{
+    color:  #EF78B8;
+}
+#span2{
+    font-size: 17pt;
+}
+#zhifu{
+    width: 85%;
+    margin-left: 100px;
+}
+#pintai{
+    position: absolute;
+    top: 410px;
+    left: 160px;
+    width: 1000px;
+    height: 300px;
+}
+#pintai div{
+float: left;
+}
+.pintai{
+    width:172px ;
+    height:50px;
+    border: 1px solid;
+    margin-left: 40px;
+}
+#yinghang{
+    position: absolute;
+    top: 600px;
+    left: 160px;
+    width: 1000px;
+    height: 300px;
+}
+#yinghang div{
+    float: left;
+    margin-top: 30px;
+}
+.danxuan{
+    position: relative;
+    top: -15px;
+}
+#hui{
+    background-color: lightgrey;
+    position: absolute;
+    top:890px;
+    left: 108px;
+    width: 1134px;
+}
+#yixuanze{
+    position: absolute;
+    top:1050px;
+    left: 108px;
+    width: 1134px;
+    height: 100px;
+}
+#yixuanfangshi{
+    position: relative;
+    top:-60px;
+    left: 70px;
+}
+#fu{
+    position: relative;
+    top:20px;
+    left: -150px;
+}
+
+/*--------------------------------------------*/
+#buttom {
+    position: absolute;
+    top:1190px;
+    width: 1008px;
+    margin-left: 168px;
+
+}
+
+#buttom div {
+    float: left;
+    margin-left: 87px;
+    text-align: center;
+    padding-top: 40px;
+    padding-buttom: 40px;
+}
+
+#buttom div img {
+    width: 80px;
+
+}
+
+#buttom div p {
+    font-weight: 700;
+}
+
+#wei {
+    margin-top: 540px;
+    width: 100%;
+    height: 400px;
+    background-color: #EF78B8;
+}
+
+#wei1 ul {
+
+    margin-left: 168px;
+}
+
+#wei1  li {
+    margin-top: 30px;
+    margin-left: 120px;
+    color: white;
+    font-weight: 700;
+}
+
+ol {
+    list-style-type: none;
+
+    padding: 0px;
+
+    width: 150px;
+    height:200px;
+
+}
+ol li{
+    padding-left: 40px;
+}
+#foot {
+    width: 100%;
+    height: 400px;
+
+}
+
+#foot div {
+    float: left;
+    font-size: 14px;
+    width: 150px;
+    height: 200px;
+    position: relative;
+    color: white;
+    margin-left: 35px;
+    left:132px;
+    font-weight: 500;
+}
+#erweima img{
+    width: 120px;
+}
+#foot_wei{
+    position: absolute;
+    top:1644px;
+    left:0px;
+    width: 100%;
+    text-align: center;
+}
+#foot_wei span{
+    color: white;
+    font-size: 10pt;
+}

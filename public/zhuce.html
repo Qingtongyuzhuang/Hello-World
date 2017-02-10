@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注册</title>
+    <link rel="stylesheet" type="text/css" href="stylesheets/zhuce.css">
+</head>
+<body >
+<div id="denglu">
+    <div id="jishi"><img src="images/dl1.png" class="tu"></div>
+    <div id="t_d" class="shi"></div>
+    <div id="t_h" class="shi"></div>
+    <div id="t_m" class="shi"></div>
+    <div id="t_s" class="shi"></div>
+    <div id="zhuce">
+        <img src="images/zhuce.png" class="tu">
+        <div id="top"><b>注册蜜兰</b></div>
+        <a href="denglu.html"> <div id="top_dl"><span>已有蜜兰账号？</span> 登录</div></a>
+        <input type="text" value="手机号/会员名/邮箱" onfocus="this.value=''"
+               onblur="if(this.value==''){this.value='手机号/会员名/邮箱'}" id="user" class="inp1"/>
+        <div id="yan_div">
+            <input type="text" id="input1" />
+            <input type="button" id="checkCode" class="code" style="width:60px"  /> <a href="#"  id="kanbu">看不清楚</a>
+            <input id="Button1" type="button" value="确定" />
+        </div>
+        <div id="duanyan_div">
+            <input type="text" value="短信验证码" onfocus="this.value=''"
+                   onblur="if(this.value==''){this.value='短信验证码'}" id="duanma" class="inp2"/>
+            <div id="duanyan_div_div">获取短信验证码</div>
+        </div>
+        <div id="password_div"><input type="text" value="密码" onfocus="this.value=''"
+                                      onblur="if(this.value==''){this.value='密码'}" id="password" class="inp1"/>
+
+            <input type="text" value="确认密码" onfocus="this.value=''"
+                   onblur="if (this.value==''){this.value='确认密码'}" id="querenma" class="inp1"/>
+
+            <div id="tiaokuan"><input type="checkbox">我已阅读并接受<span>《蜜兰服务条款》</span></div>
+            <button id="btn_zhuce">注册</button>
+        </div>
+    </div>
+</div>
+
+
+</body>
+<script type="text/javascript" src="javascripts/zhuce.js"></script>
+<script type="text/javascript" src="javascripts/jquery-3.0.0.min.js"></script>
+</html>

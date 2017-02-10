@@ -1,0 +1,147 @@
+.shi{
+
+    width: 24px;
+    height: 28px;
+    font-size: 15pt;
+}
+#t_d{
+    position: absolute;
+    top:415px;
+    left: 340px;
+}
+#t_h{
+    position: absolute;
+    top:415px;
+    left: 410px;
+}
+#t_m{
+    position: absolute;
+    top:415px;
+    left: 485px;
+}
+#t_s{
+    position: absolute;
+    top:415px;
+    left: 555px;
+}
+
+.code{
+ font-family:Arial,宋体;
+    font-style:italic;
+    color:green;
+    border:0;
+    padding:2px 3px;
+    letter-spacing:3px;
+    font-weight:bolder;
+}
+.unchanged {
+    border:0;
+}
+#denglu {
+    width: 80px;
+    height: 300px;
+    margin-left: 277px;
+    margin-top: 100px;
+
+}
+#denglu div{
+    float: left;
+}
+
+#jishi {
+    float: left;
+    width: 300px;
+    height: 300px;
+}
+#zhuce{
+    display: block;
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 400px;
+}
+#top{
+    position: relative;
+    top:-440px;
+    left:30px;
+    font-size: 19pt;
+
+}
+#top_dl{
+    position: relative;
+    top:-435px;
+    left:120px;
+    font-size: 13pt;
+}
+ a{
+    color:black ;
+}
+ input{
+     color: lightgrey;
+ }
+#top_dl span{
+    color:#EF78B8 ;
+}
+
+#user{
+    position: relative;
+    top:-411px;
+    left:77px;
+}
+.inp1{
+    width: 240px;
+    height: 30px;
+}
+.inp2{
+    width: 90px;
+    height: 30px;
+}
+#yan_div{
+    position: relative;
+    top:-390px;
+    left:40px;
+}
+#yan_div_zi{
+   margin-left: 100px;
+    margin-top: 7px;
+}
+
+#duanyan_div{
+    position: relative;
+    top:-380px;
+    left:-80px;
+}
+#duanyan_div_div{
+    position: relative;
+    top:0px;
+    left:280px;
+    width:120px;
+    height: 30px;
+    background-color: slategrey;
+    text-align: center;
+}
+#password_div{
+    position: relative;
+    top:-376px;
+    left:77px;
+}
+#querenma{
+    margin-top: 12px;
+}
+#tiaokuan{
+    position: relative;
+    top:15px;
+    left:-40px;
+}
+#btn_zhuce{
+    position: relative;
+    top:30px;
+    left:-34px;
+    width: 280px;
+    height: 30px;
+    color: white;
+    background-color: #EF78B8;
+    font-size:17pt ;
+}
+

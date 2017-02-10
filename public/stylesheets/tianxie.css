@@ -1,0 +1,288 @@
+
+#sele select{
+    float: left;
+}
+a {
+    display: block;
+    width: auto;
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul > li {
+    margin-left: 5px;
+    float: left;
+}
+
+#daohang {
+    width: 100%;
+    height: 20px;
+    background-color: #e2cfdf;
+}
+#daohang li{
+    font-size: 10pt;
+}
+.qian{
+    position: absolute;
+    top:10px;
+    left: 10px;
+}
+.hou{
+    position: absolute;
+    top:10px;
+    left: 640px;
+}
+#logo {
+    width: auto;
+    height: auto;
+    margin-left: 100px;
+}
+
+#logo img {
+    width: 200px;
+    height: 100px;
+}
+#bu{
+    width: 400px;
+    height: 30px;
+    position: absolute;
+    top:50px;
+    left:770px;
+    margin-left: 100px
+}
+#tianxie{
+    width: 85%;
+    height:1000px;
+    margin-left: 104px;
+}
+#dizhi{
+
+    position: relative;
+    top:120px;
+}
+#dizhi a{
+    color:#EF78B8;
+}
+#shouhuo{
+    height: 200px;
+}
+.txtou{
+    width: 100%;
+}
+.shr{
+    margin-top: 20px;
+}
+#btn1{
+    border: 2px solid lightgrey;
+    background-color:#EF78B8 ;
+    margin-top:20px;
+    margin-left:110px;
+    font-size: 12pt;
+    color: white;
+    border-radius:7px;
+}
+#btn2{
+    border: 2px solid lightgrey;
+    background-color:white ;
+    margin-top:20px;
+    margin-left:70px;
+    font-size: 12pt;
+    border-radius:7px;
+
+}
+#gwc_wz{
+    position: absolute;
+    top:770px;
+    left:130px;
+    width: 1202px;
+    height: 30px;
+
+}
+#gwc_wz div{
+    float: left;
+}
+#gwcwztou{
+    position: relative;
+    top:-60px;
+    font-size: 10pt;
+}
+#gwcsp{
+    width: 70px;
+    margin-top: 3px;
+}
+#gwc_gg{
+    margin-left: 190px;
+    font-size: 10pt;
+    margin-top: 10px;
+}
+#gwc_jg{
+    margin-left:50px;
+    margin-top: 10px;
+    font-size: 10pt;
+}
+.shuliang{
+    margin-left:120px;
+    margin-top: 6px;
+    font-size: 13pt;
+}
+#xiaoji{
+    margin-left: 135px;
+    margin-top: 10px;
+    font-size: 12pt;
+    color: #EF78B8;
+}
+#yanse{
+    margin-left: 94px;
+    margin-top: -85px;
+    font-size: 10pt;
+
+}
+#bianhao{
+    margin-left: 94px;
+    margin-top: 6px;
+    font-size: 10pt;
+}
+#wzjiemian{
+    margin-top: 80px;
+}
+#jm1{
+    color:#EF78B8 ;
+    margin-left: 500px;
+}
+#jm3{
+    margin-left: 782px;
+}
+#jm4{
+    margin-left: 590px;
+}
+#jmmei_btn{
+    width: 140px;
+    height: 30px;
+    font-size: 12pt;
+    border: 1px solid;
+    background-color: ghostwhite;
+    text-align: center;
+}
+#jmmei_btn a{
+    padding-top: 4px;
+}
+#jmmei_div{
+    position: relative;
+    top: -10px;
+    left: 600px;
+}
+#jmmei_div span{
+    color: #EF78B8;
+    font-size: 17pt;
+}
+#jmmei_js{
+    background-color: #EF78B8 ;
+    color: white;
+    font-size: 25pt;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    top: -70px;
+    left: 220px;
+    width: 100px;
+
+}
+/*-----------------------------------------------------------*/
+
+
+
+/*--------------------------------------------*/
+#buttom {
+    position: absolute;
+    top:1190px;
+    width: 1008px;
+    margin-left: 168px;
+
+}
+
+#buttom div {
+    float: left;
+    margin-left: 87px;
+    text-align: center;
+    padding-top: 40px;
+    padding-buttom: 40px;
+}
+
+#buttom div img {
+    width: 80px;
+
+}
+
+#buttom div p {
+    font-weight: 700;
+}
+
+#wei {
+    margin-top: 540px;
+    width: 100%;
+    height: 400px;
+    background-color: #EF78B8;
+}
+
+#wei1 ul {
+
+    margin-left: 168px;
+}
+
+#wei1  li {
+    margin-top: 30px;
+    margin-left: 120px;
+    color: white;
+    font-weight: 700;
+}
+
+ol {
+    list-style-type: none;
+
+    padding: 0px;
+
+    width: 150px;
+    height:200px;
+
+}
+ol li{
+    padding-left: 40px;
+}
+#foot {
+    width: 100%;
+    height: 400px;
+
+}
+
+#foot div {
+    float: left;
+    font-size: 14px;
+    width: 150px;
+    height: 200px;
+    position: relative;
+    color: white;
+    margin-left: 35px;
+    left:132px;
+    font-weight: 500;
+}
+#erweima img{
+    width: 120px;
+}
+#foot_wei{
+    position: absolute;
+    top:1644px;
+    left:0px;
+    width: 100%;
+    text-align: center;
+}
+#foot_wei span{
+    color: white;
+    font-size: 10pt;
+}

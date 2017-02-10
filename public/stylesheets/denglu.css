@@ -1,0 +1,169 @@
+.shi{
+
+    width: 24px;
+    height: 28px;
+    font-size: 15pt;
+}
+#t_d{
+    position: absolute;
+    top:350px;
+    left: 370px;
+}
+#t_h{
+    position: absolute;
+    top:350px;
+    left: 440px;
+
+}
+#t_m{
+    position: absolute;
+    top:350px;
+    left: 515px;
+}
+#t_s{
+    position: absolute;
+    top:350px;
+    left: 585px;
+}
+
+#denglu {
+    width: 80px;
+    height: 300px;
+    margin-left: 307px;
+    margin-top: 100px;
+}
+
+#jishi {
+    float: left;
+    width: 300px;
+    height: 300px;
+}
+
+#yanzheng {
+    display: block;
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 400px;
+}
+
+.tu {
+    width: 350px;
+    height: 300px;
+}
+
+a {
+    width: auto;
+    text-decoration: none;
+    color: grey;
+    font-size: 8pt;
+    margin-left: 5px;
+}
+
+p {
+    position: relative;
+    top: -127px;
+    left: 220px;
+
+}
+
+input {
+    width: 170px;
+    height: 27px;
+    border: 0px;
+}
+
+#user {
+    position: relative;
+    top: -230px;
+    left: 90px;
+    color: lightgrey;
+}
+
+#password {
+    position: relative;
+    top: -207px;
+    left: 90px;
+}
+
+button {
+    position: relative;
+    top: -180px;
+    left: 53px;
+    width: 213px;
+    height: 27px;
+    background-color: #EF78B8;
+    color: white;
+}
+
+#weibo {
+
+    position: relative;
+    top: -219px;
+    left: 63px;
+    width: 65px;
+    height: 20px;
+    margin-left: 14px;
+}
+
+#pengyou {
+
+    position: relative;
+    top: -239px;
+    left: 138px;
+    width: 75px;
+    height: 20px;
+    margin-left: 14px;
+}
+
+#erweima {
+    display: block;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: -475px;
+    left: 310px;
+}
+
+#saoma {
+    display: none;
+    float: left;
+    width: 350px;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 400px;
+}
+
+#tu {
+    width: 350px;
+    height: 300px;
+}
+
+.smp {
+    margin: 0px;
+    font-size: 10px;
+    position: relative;
+    top: -67px;
+    left: 120px;
+}
+
+#mizhi a {
+    color: #e94815;
+    margin: 0px;
+}
+
+#zhuce {
+    position: relative;
+    top: -50px;
+    left: 220px;
+}
+
+#zhanghao {
+
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: -343px;
+    left: 310px;
+}

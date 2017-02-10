@@ -1,0 +1,171 @@
+
+a {
+    display: block;
+    width: auto;
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul > li {
+    margin-left: 5px;
+    float: left;
+}
+
+#daohang {
+    width: 100%;
+    height: 20px;
+    background-color: #e2cfdf;
+}
+#daohang li{
+    font-size: 10pt;
+}
+.qian{
+    position: absolute;
+    top:10px;
+    left: 10px;
+}
+.hou{
+    position: absolute;
+    top:10px;
+    left: 640px;
+}
+#logo {
+    width: auto;
+    height: auto;
+    margin-left: 100px;
+}
+
+#logo img {
+    width: 200px;
+    height: 100px;
+}
+
+
+/*-----------------------------------------------------------*/
+#bu{
+    width: 400px;
+    height: 30px;
+    position: absolute;
+    top:50px;
+    left:770px;
+    margin-left: 100px
+}
+#bgse{
+    width: 80%;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+#bg{
+    position: absolute;
+    top:140px;
+    background-color:#e5e5e5 ;
+    width: 1333px;
+    height: 1900px;
+    z-index: -3;
+
+}
+#tiao{
+    position: absolute;
+    left: 430px;
+   top: 379px;
+}
+#tiao span{
+    color: #EF78B8;
+    font-size: 17pt;
+}
+
+/*--------------------------------------------*/
+#buttom {
+    position: absolute;
+    top:530px;
+    width: 1008px;
+    margin-left: 168px;
+
+}
+
+#buttom div {
+    float: left;
+    margin-left: 87px;
+    text-align: center;
+    padding-top: 40px;
+    padding-buttom: 40px;
+}
+
+#buttom div img {
+    width: 80px;
+
+}
+
+#buttom div p {
+    font-weight: 700;
+}
+
+#wei {
+    margin-top: 220px;
+    width: 100%;
+    height: 400px;
+    background-color: #EF78B8;
+}
+
+#wei1 ul {
+
+    margin-left: 168px;
+}
+
+#wei1  li {
+    margin-top: 30px;
+    margin-left: 120px;
+    color: white;
+    font-weight: 700;
+}
+
+ol {
+    list-style-type: none;
+
+    padding: 0px;
+
+    width: 150px;
+    height:200px;
+
+}
+ol li{
+    padding-left: 40px;
+}
+#foot {
+    width: 100%;
+    height: 400px;
+
+}
+
+#foot div {
+    float: left;
+    font-size: 14px;
+    width: 150px;
+    height: 200px;
+    position: relative;
+    color: white;
+    margin-left: 35px;
+    left:132px;
+    font-weight: 500;
+}
+#erweima img{
+    width: 120px;
+}
+#foot_wei{
+    position: absolute;
+    top:934px;
+    left:0px;
+    width: 100%;
+    text-align: center;
+}
+#foot_wei span{
+    color: white;
+    font-size: 10pt;
+}
